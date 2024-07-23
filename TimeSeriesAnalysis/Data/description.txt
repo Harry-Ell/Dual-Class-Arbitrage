@@ -1,0 +1,1 @@
+These datasets contain 5 years of pricing data for dual class stocks. The time resolution is 1 day. 
